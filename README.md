@@ -1,9 +1,13 @@
-# Wassestroff frontend reactjs
-# Technologies stack libraries used
-- vs code (for code development), React js,html,css,javascript( programming
-languages), github (code storage and presentation), git (code transition to github).
+# Wasseestroff Frontend Development Using ReactJS
 
-# Steps to run/ build the project
+# Technologies Stack/Libraries Used :
+- vs code (for code development)
+- React JS
+- HTML & CSS
+- JavaScript( programming language)
+- Github ( for code storage and presentation), Git (code transition to github).
+
+# Steps To Run/Build The Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -14,7 +18,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:https://neerajkumarkondabattula.github.io/wasseerstoff/3000](https://neerajkumarkondabattula.github.io/wasseerstoff/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -58,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Making A Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
@@ -74,19 +78,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# Demo of the project(video):
-https://drive.google.com/
-file/d/1dg6GHk2CCfxVN_e_-MmRwz6eTQVkx9s-/view?usp=share_link
+# Demo Of Project(Video):
+https://drive.google.com/file/d/1dg6GHk2CCfxVN_e_-MmRwz6eTQVkx9s-/view?usp=share_link
 
 # Hosted Home Page :
 https://neerajkumarkondabattula.github.io/wasseerstoff/
 
-# Summarizing the approch for the task:
-the was developed using react js with the
-technology used vs code developing the project with the help of vs code and after that code will run and tested
-and store in github trough git technology is used . to run this project we need to open the github repository and
-check the link of readme filr and click on the link and run the project and see the result in the web page trough
-your own extension like chrome and firefox,edge etc and check all the code evaluation and efficiency of the
-code the project was developed by html and css and react js,JavaScript,and excited waiting about the results
-what happens next and thanks for this opportunity i am and also improve my skills and knowledge further and
-further.
+# Summarizing The Approch For Task :
+The initial approach of project start with using technology VS code version 1.75, React Javascript, GitHub. Created a Navigation bar contains of div class as Logo, Search icon, Stactics, Overview as a reference link containing a web page displaying content of overview of main page, Dashboard, Analytics. Added basic CSS properities by giving a proper styling on adding margin and padding measurements that gives an accurate layout of webpage. Later, moved on to creating the main content featuring as divided two equal parts using flex property of CSS both on left and right sides, In first half of page(left) contains analising boxes which contains all the purchasers, sales and no of users, Added analysis box of both New users and Active users build dyanamically using JS, Refreshing page each time will start count of Users in Analysis box from zero(0). Basic property of adding world map contains 6 different places like Chicago, Berlin, Manaus, Queensland, Giza, Shanghai using absoulte positions to set up a content box of active users. Timeline data of Sales figures with its sale after flex boxes displays different sizes of bar graphs using gradient effect which works using JS. Hovering effect for each bar graph box is included in a particular div class applying CSS styling. Page contain Overview link refers a overview content box which indicates each year sales figures from month January to December displaying Sales, Users, Team, Product. Footer of webpage contains company logo at left and at right bottom of footer contains estabilished company year.
+
