@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# wassestroff frontend reactjs
+# technologies stack libraries used
+- vs code (for code development), React js,html,css,javascript( programming
+languages), github (code storage and presentation), git (code transition to github).
+
+# steps to run/ build the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +73,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Demo of the project(video):
+https://drive.google.com/
+file/d/1dg6GHk2CCfxVN_e_-MmRwz6eTQVkx9s-/view?usp=share_link
+
+# Hosted Home page:
+neerajkumarkondabattula.github.io
+
+# Summarizing the approch for the task:
+the was developed using react js with the
+
+technology used vs code developing the project with the help of vs code and after that code will run and tested
+and store in github trough git technology is used . to run this project we need to open the github repository and
+check the link of readme filr and click on the link and run the project and see the result in the web page trough
+your own extension like chrome and firefox,edge etc and check all the code evaluation and efficiency of the
+code the project was developed by html and css and react js,JavaScript,and excited waiting about the results
+what happens next and thanks for this opportunity i am and also improve my skills and knowledge further and
+further.
