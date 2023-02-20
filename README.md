@@ -78,8 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://drive.google.com/
 file/d/1dg6GHk2CCfxVN_e_-MmRwz6eTQVkx9s-/view?usp=share_link
 
-# Hosted Home page:
-neerajkumarkondabattula.github.io
+# Hosted Home Page :
+https://neerajkumarkondabattula.github.io/wasseerstoff/
 
 # Summarizing the approch for the task:
 the was developed using react js with the
