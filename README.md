@@ -1,9 +1,9 @@
-# wassestroff frontend reactjs
-# technologies stack libraries used
+# Wassestroff frontend reactjs
+# Technologies stack libraries used
 - vs code (for code development), React js,html,css,javascript( programming
 languages), github (code storage and presentation), git (code transition to github).
 
-# steps to run/ build the project
+# Steps to run/ build the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -83,7 +83,6 @@ neerajkumarkondabattula.github.io
 
 # Summarizing the approch for the task:
 the was developed using react js with the
-
 technology used vs code developing the project with the help of vs code and after that code will run and tested
 and store in github trough git technology is used . to run this project we need to open the github repository and
 check the link of readme filr and click on the link and run the project and see the result in the web page trough
